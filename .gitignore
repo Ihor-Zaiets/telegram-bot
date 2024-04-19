@@ -1,5 +1,6 @@
 #Files to ignore
 secret.py
+log.txt
 
 # IntelliJ IDEA
 .idea/
